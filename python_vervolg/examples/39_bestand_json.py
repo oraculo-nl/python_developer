@@ -11,4 +11,5 @@ with open("data.json", "w") as f:
 with open("data.json", "r") as f:
     geladen = json.load(f)
 
+print(type(geladen))
 print(geladen)
