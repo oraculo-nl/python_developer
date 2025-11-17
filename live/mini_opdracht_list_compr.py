@@ -46,3 +46,5 @@ def functie_kwadrateren(lijst):
 
 functie_kwadrateren([1,2,3,4])
 functie_kwadrateren([3,4,5,6])
+
+13:15
