@@ -12,3 +12,5 @@ class Truck(Auto):
 
 Auto.toon_wielen_hardcoded()   # 4
 Truck.toon_wielen_hardcoded()  # 4 (niet 6)
+print(Auto.wielen)
+print(Truck.wielen)

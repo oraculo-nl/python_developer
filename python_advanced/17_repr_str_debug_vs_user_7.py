@@ -12,3 +12,5 @@ class Boek:
 b = Boek("Python 101", "Anna")
 print(repr(b))  # Debug
 print(b)        # Voor gebruiker
+
+

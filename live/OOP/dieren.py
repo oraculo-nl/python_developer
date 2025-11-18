@@ -17,17 +17,19 @@ class Kat(Dier):
 class Schildpad(Dier):
     def geluid(self):
         return "zucht"
-
+#
 dieren = [Hond(), Kat(), Hond(), Schildpad()]
+#
+#
+#
+# print([d.geluid() for d in dieren])
+#
+# for d in dieren:
+#     print(d.geluid())
+#     if isinstance(d, Hond):
+#         d.kwispelen()
 
 
+from gebruik_dieren import test_dieren
 
-print([d.geluid() for d in dieren])
-
-for d in dieren:
-    print(d.geluid())
-    if isinstance(d, Hond):
-        d.kwispelen()
-
-
-
+test_dieren(dieren)

@@ -9,3 +9,6 @@ class Teller:
 a = Teller(); b = Teller()
 print("klassikaal:", Teller.aantal)  # 2
 print("instanties:", a.id, b.id)     # 1 2
+c = Teller()
+
+print(Teller.aantal)
