@@ -1,0 +1,1 @@
+HELLO_MESSAGE = "Hallo welkom in dit programma"
