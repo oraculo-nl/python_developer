@@ -8,3 +8,5 @@ try:
     print(verdubbel("abc"))
 except TypeError as e:
     print("Fout:", e)
+
+# programmeer een try-except-else-finally
