@@ -30,6 +30,6 @@ dieren = [Hond(), Kat(), Hond(), Schildpad()]
 #         d.kwispelen()
 
 
-from gebruik_dieren import test_dieren
+# from gebruik_dieren import test_dieren
 
-test_dieren(dieren)
+# test_dieren(dieren)

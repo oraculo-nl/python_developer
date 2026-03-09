@@ -1,4 +1,4 @@
-class Auto:
+class Auto():
     def __init__(self, merk):
         self.__merk = merk
         self.snelheid = 0
