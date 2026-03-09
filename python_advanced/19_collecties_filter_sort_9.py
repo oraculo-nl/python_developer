@@ -18,4 +18,3 @@ for s in geslaagd:
     print(s.naam)
     s.uitschrijven()
 
-11:25
