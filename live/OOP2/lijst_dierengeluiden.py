@@ -1,4 +1,3 @@
-from dier import Dier
 from hond import Hond
 from vogel import Vogel
 
